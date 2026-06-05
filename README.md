@@ -48,16 +48,10 @@ Founder of multiple SaaS platforms focused on image optimization, business manag
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akashbhuniatech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashbhuniatech&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akashbhuniatech&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akashbhuniatech&theme=tokyo-night&hide_border=true&area=true&color=667eea&line=764ba2&point=ffffff" width="100%"/>
 </div>
 
 ---
